@@ -1,0 +1,20 @@
+.app-container {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  .random-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
+  
+  .random-button:hover {
+    background-color: #45a049;
+  }
